@@ -11,6 +11,7 @@ import java.util.*;
  * Represents a number in octal (base-8) system using a circular doubly-linked list.
  *
  * Number: 2
+ * Group: IM-34
  * C3 = 2 % 3 = 2 -> Кільцевий двонаправлений
  * C5 = 2 % 5 = 2 -> вісімкова
  * Доп: (2+1) mod 5 = 3 -> десяткова
